@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+*Estudiante de Ingenieria Mecanica
+*Aprendiendo programación
+  *Python
+  *GitHub
+  *Android
+*Vendedor
