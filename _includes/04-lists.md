@@ -1,6 +1,6 @@
-*Estudiante de Ingenieria Mecanica
-*Aprendiendo programación
-  *Python
-  *GitHub
-  *Android
-*Vendedor
+* Estudiante de Ingenieria Mecanica
+* Aprendiendo programación
+  * Python
+  * GitHub
+  * Android
+* Vendedor
